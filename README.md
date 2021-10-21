@@ -1,6 +1,6 @@
 # bml-end-term
 
-[Notebooks](bml-end-term/Notebooks): 16 `ipynb` notebooks of 16 experiments conducted
+[Notebooks](./bml-end-term/Notebooks): 16 `ipynb` notebooks of 16 experiments conducted
 
 [src](bml-end-term/src): utility logics
 
