@@ -10,4 +10,4 @@
 ![image](https://user-images.githubusercontent.com/28902802/136683104-7a8fa527-2c43-476b-8844-6555c58d0a22.png)
 
 ## More details
-Read our thesis [here](bml-end-term/docs/BML.pdf)
+Read our thesis [here](https://github.com/congphase/bml-end-term/blob/main/docs/BML.pdf)
