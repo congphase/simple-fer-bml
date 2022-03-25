@@ -1,4 +1,4 @@
-# bml-end-term
+# simple-fer-bml
 
 [Notebooks](https://github.com/congphase/bml-end-term/tree/main/Notebooks): 16 `ipynb` notebooks of 16 experiments conducted
 
